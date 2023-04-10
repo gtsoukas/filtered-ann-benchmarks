@@ -1,6 +1,8 @@
 # ANN benchmarks with category filters
 Practical nearest neighbor search needs filtering, but filtering introduces counterintuitive performance penalties.
 
+[Accompanying blog post](https://www.tsoukas.de/fast-filtered-vector-search/)
+
 
 ## Results
 
